@@ -1,0 +1,585 @@
+@media only screen and (max-width: 1200px) {
+  .support-banner {
+    padding: 65px 0;
+  }
+  .support-banner-in h1 {
+    width: 55%;
+    padding-bottom: 38px;
+  }
+  .our-customer-card {
+    width: 100%;
+    padding: 20px;
+  }
+  .our-customer-card p {
+    padding-top: 15px;
+  }
+  .our-mission-right {
+    padding: 16px;
+  }
+  .job-support-left ul {
+    list-style: none;
+    padding: 19px 18px;
+  }
+  .java-support-works-left {
+    padding-left: 30px;
+  }
+  .job-support-place-right figure img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  .support-services-in p {
+    padding-bottom: 0;
+  }
+  .get-in-touch-left form input {
+    width: 47%;
+  }
+  .get-in-touch-left form textarea {
+    width: 98%;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .partners ul li img {
+    width: 78%;
+    margin: 0 auto;
+    display: block;
+  }
+  .our-team ul li {
+    width: calc(100% / 3 - (1 - 1 / 3) * 0px);
+  }
+  .services-dots,
+  .footer-dots {
+    right: 0;
+  }
+  .progress-ser-dots {
+    left: 0;
+  }
+  .banner::after {
+    left: 18%;
+    top: 24%;
+    background: url(../images/home-square.png) no-repeat;
+    width: 63%;
+    height: 100%;
+    background-size: contain;
+  }
+  .home-in {
+    padding: 125px 0 0;
+  }
+  .home-left h1 {
+    font-size: 74px;
+    line-height: 76px;
+  }
+  .banner::after {
+    left: 0;
+    right: 0;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .menu_icon {
+    display: block;
+    padding-left: 9px;
+    background-color: #011b30;
+    height: 34px;
+    width: 34px;
+    padding-top: 8px;
+    outline: none;
+    border-radius: 100%;
+    position: absolute;
+    right: 0;
+  }
+  .navbar-toggler:focus {
+    outline: 0;
+    box-shadow: none;
+  }
+
+  .navbar .navbar-nav .nav-item {
+    border: 0;
+  }
+  .navbar .navbar-nav a.login-in {
+    width: 24%;
+    margin: 10px auto 0;
+  }
+  .navbar .navbar-nav a.nav-link {
+    padding: 12px 0px;
+    color: #3e4095 !important;
+  }
+  .our-mission-right {
+    float: none;
+    margin: 0px auto 0;
+    padding: 30px;
+  }
+  .job-support-left {
+    margin-bottom: 20px;
+  }
+  .content {
+    height: auto;
+  }
+  .order-first {
+    -ms-flex-order: -1 !important;
+    order: -1 !important;
+  }
+  .support-works-left h2 {
+    padding: 40px 0;
+  }
+  .support-works {
+    padding: 40px 0 0;
+  }
+  .java-support-works-left {
+    padding-left: 0;
+  }
+  .java-support-works-left h2 {
+    padding: 40px 0;
+  }
+  .nav-tabs li {
+    width: 50%;
+    flex-basis: auto;
+  }
+  .our-customer-card {
+    margin-top: 40px;
+  }
+  .our-customer h2 {
+    padding-bottom: 0;
+  }
+  .marquee-tag marquee ul li img {
+    width: 100px;
+  }
+  .footer-center,
+  .footer-right {
+    padding-top: 40px;
+  }
+  .support-banner-in h1 {
+    width: 70%;
+  }
+  .navbar .navbar-toggler {
+    top: -3px;
+  }
+  .navbar .navbar-brand {
+    margin-left: 15px;
+  }
+  .support-works-left {
+    width: 100%;
+  }
+  .job-support-left h4 i {
+    display: block;
+  }
+  .content3 {
+    display: none;
+  }
+  .job-support-left h4 {
+    cursor: pointer;
+  }
+  .choose-sup {
+    padding: 0 0 40px 0;
+  }
+  .job-support-sub,
+  .Javasupport,
+  .our-customer,
+  .support-services,
+  .job-support-place {
+    padding: 50px 0;
+  }
+  .owl-dots {
+    display: none;
+  }
+  .support-services-in h2 {
+    padding-bottom: 30px;
+  }
+  .job-support-right-card ul {
+    padding: 0px 31px 0;
+  }
+  .job-support-mob {
+    padding: 30px 0;
+  }
+  .get-in-touch-left form input {
+    width: 48%;
+  }
+  .get-in-touch-left form textarea {
+    width: 100%;
+  }
+  .contact-card {
+    margin-bottom: 20px;
+  }
+  .contact-us {
+    padding: 40px 0 20px;
+  }
+  .order-first {
+    order: -1;
+  }
+  .home-right figure img {
+    width: 50%;
+  }
+  .home-left h1 {
+    padding-top: 40px;
+  }
+  .progress-left figure img {
+    width: 100%;
+  }
+  .our-team ul li {
+    width: calc(100% / 2 - (1 - 1 / 2) * 20px);
+    margin: 0 10px 10px 0;
+  }
+  .item .overlay {
+    opacity: 1;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: static;
+  }
+  .partners ul {
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+  .partners ul li {
+    margin-top: 25px;
+  }
+  .services-dots img,
+  .footer-dots img,
+  .progress-ser-dots img,
+  .services-dots-bottom img {
+    width: 60px;
+  }
+  .services-dots {
+    top: -9%;
+  }
+  .footer-dots {
+    top: -21%;
+  }
+  .progress-ser-dots {
+    top: -8.5%;
+  }
+  .home-in {
+    padding-bottom: 40px;
+  }
+  .services-card:hover {
+    transition: all 0.5s;
+    transform: scale(1);
+  }
+  .home-left {
+    padding-bottom: 0;
+  }
+  .progress-left-in {
+    padding-top: 40px;
+    padding-left: 0;
+  }
+  .services-dots-bottom {
+    position: absolute;
+    left: 0;
+    bottom: -9%;
+  }
+  .item .overlay {
+    background-color: #d81563;
+  }
+}
+@media only screen and (max-width: 767px) {
+  nav a {
+    display: block;
+    color: #fff;
+  }
+
+  .nav_items {
+    flex-basis: 100%;
+    flex-grow: 1;
+    display: none;
+    background: #000;
+  }
+  .menu_icon {
+    display: block;
+    padding-left: 9px;
+    background-color: #011b30;
+    height: 34px;
+    width: 34px;
+    padding-top: 8px;
+    outline: none;
+    border-radius: 100%;
+    position: absolute;
+  }
+
+  .navbar-nav .nav-item a.nav-link:hover span {
+    border-bottom: none;
+  }
+  .support-banner-in h1 {
+    font-size: 35px;
+    line-height: 53px;
+    width: 90%;
+  }
+  .our-mission,
+  .job-support,
+  .Javasupport,
+  .marquee-tag,
+  .softwareAccordion {
+    padding: 50px 0 20px;
+  }
+  .our-customer {
+    padding: 50px 0;
+  }
+  .our-mission-left h2 {
+    font-size: 30px;
+    line-height: 40px;
+    padding-bottom: 15px;
+  }
+  .job-support h2,
+  .marquee-tag h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .grid-layout {
+    padding: 50px 0;
+  }
+  .support-works-left h2,
+  .java-support-works-left h2 {
+    font-size: 30px;
+    line-height: 40px;
+    padding: 30px 0;
+  }
+  .Javasupport h2,
+  .our-customer h2,
+  .job-support-place-left h2,
+  .support-services-in h2,
+  .get-in-touch-left h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .get-in-touch-left p {
+    font-size: 16px;
+    line-height: 30px;
+    padding-bottom: 20px;
+  }
+  .softwareAccordion h1 {
+    font-size: 30px;
+    line-height: 40px;
+    padding-bottom: 30px;
+  }
+  footer {
+    padding: 50px 0;
+  }
+  .owl-carousel .owl-nav button.owl-next {
+    right: 0;
+    top: inherit;
+    bottom: -40px;
+  }
+  .owl-carousel .owl-nav button.owl-prev {
+    top: inherit;
+    bottom: -40px;
+    right: 70px;
+    left: inherit;
+  }
+  .desktop-tab {
+    display: none;
+  }
+  .responsive-tab {
+    display: block;
+  }
+  .job-support-place-left h2 {
+    padding-top: 0px;
+    padding-bottom: 25px;
+  }
+  .job-support-place-left p {
+    padding-bottom: 25px;
+  }
+  .get-in-touch {
+    padding: 50px 0;
+  }
+  .footer-top {
+    padding: 50px 0;
+  }
+  .services-dots {
+    top: -8%;
+  }
+  .footer-dots {
+    top: -13%;
+  }
+  .services-dots-bottom {
+    bottom: -8%;
+  }
+}
+@media only screen and (max-width: 599px) {
+  .support-banner-in h1 {
+    font-size: 35px;
+    line-height: 53px;
+    width: 100%;
+  }
+  .startegySub {
+    width: 100%;
+  }
+  .set > h4 {
+    font-size: 14px;
+  }
+  .job-support-place-left h6 {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 15px 0;
+  }
+  .support-services-in h2 {
+    padding-bottom: 20px;
+  }
+  .get-in-touch-left form input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .get-in-touch-left form input + input {
+    margin: 0;
+  }
+  .get-in-touch-left form textarea {
+    margin-top: 20px;
+  }
+  .our-team ul li {
+    width: calc(100% / 1 - (1 - 1 / 1) * 20px);
+    margin: 0 10px 10px 0;
+  }
+  .home-right figure img {
+    width: 100%;
+  }
+  footer {
+    padding: 20px 0;
+  }
+  .home-left h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .about-us,
+  .services,
+  .progress-ser,
+  .partners,
+  .partners,
+  .our-team {
+    padding: 50px 0;
+  }
+  .progress-left-in p {
+    width: 100%;
+    padding-top: 10px;
+  }
+  .services-dots {
+    top: -4%;
+  }
+  .footer-dots {
+    top: -12%;
+  }
+  .progress-ser-dots {
+    top: -7.2%;
+  }
+  .banner::after {
+    left: 0%;
+    top: 24%;
+    background: url(../images/home-square.png) no-repeat;
+    width: 88%;
+    height: 100%;
+    background-size: contain;
+  }
+  .progress-left-in p {
+    font-size: 16px;
+    line-height: 30px;
+  }
+  .services-dots-bottom {
+    bottom: -4%;
+  }
+  .services-card-in {
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+  }
+  .services-card {
+    margin-top: 18px;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .nav-tabs li {
+    width: 100%;
+  }
+  .set > h4 i {
+    float: right;
+    margin-top: -14px;
+  }
+  .top-header {
+    display: none;
+  }
+  .navbar-brand img {
+    width: 65%;
+    display: block;
+  }
+  .navbar .navbar-toggler {
+    top: -7px;
+    right: 10px;
+  }
+  .support-banner-in h1 {
+    font-size: 29px;
+    line-height: 45px;
+    width: 100%;
+  }
+  .support-banner-in a {
+    margin-right: 0;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .support-banner-in a i {
+    font-size: 15px;
+    position: absolute;
+    right: 28px;
+    top: 16px;
+    font-weight: 500;
+  }
+  .our-mission-right {
+    width: 100%;
+    padding: 20px;
+  }
+  .support-works-left ul li {
+    margin-bottom: 25px;
+  }
+  .support-works-left ul li h5 {
+    font-size: 15px;
+    line-height: 28px;
+  }
+  .marquee-tag marquee ul li img {
+    width: 60px;
+  }
+  .support-services-in p,
+  .job-support-place-left p {
+    font-size: 15px;
+    line-height: 28px;
+  }
+  .contact-card li p,
+  .contact-card li a {
+    font-size: 14px;
+    line-height: 22px;
+    padding-top: 5px;
+  }
+  .home-btn {
+    flex-wrap: wrap;
+  }
+  .home-btn a {
+    width: 100%;
+  }
+  .home-btn a + a {
+    margin: 20px 0 0 0;
+  }
+  .home-left h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .home-left p {
+    padding: 25px 0;
+  }
+  .our-team h2 {
+    padding-bottom: 20px;
+  }
+
+  .services h2 {
+    padding-bottom: 0;
+  }
+  .home-in a img {
+    width: 200px;
+  }
+  .services-dots {
+    top: -3.6%;
+  }
+  .footer-dots {
+    top: -14%;
+  }
+  .progress-ser-dots {
+    top: -8.6%;
+  }
+}
